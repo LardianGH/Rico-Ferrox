@@ -4,6 +4,7 @@ import Wrapper from "../elements/Wrapper";
 import BannerLeft from "../elements/BannerLeft";
 import BannerRight from "../elements/BannerRight";
 import Container from "../elements/Container";
+import LinkCardContainer from "../elements/LinkCardContainer";
 import Image from "../elements/Image"
  const Main = () => {
     return (
@@ -14,7 +15,9 @@ import Image from "../elements/Image"
       <BannerLeft>
       </BannerLeft>
       <Container>
-          <h1>Rico the Ferrox says "Hello!"</h1>
+        <LinkCardContainer>
+        </LinkCardContainer>
+        <h1>Rico the Ferrox says "Hello!"</h1>
           <br></br>
           <Image>
           </Image>

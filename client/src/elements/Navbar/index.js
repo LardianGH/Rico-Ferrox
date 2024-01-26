@@ -4,8 +4,9 @@ import "./style.css";
 
 const Navbar = props => (
   <div className="Navbar">
+
     <div className="NavbarLink">
-        <NavbarLink text={"home page"} link={"/Browse"}/>
+        <NavbarLink text={"home page"} link={"/"}/>
     </div>
     <div className="NavbarLink">
         <NavbarLink text={"what is a ferrox?"} link={"/Ferrox"}/>
