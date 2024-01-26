@@ -1,0 +1,22 @@
+{
+  "name": "rico-ferrox",
+  "version": "1.0.0",
+  "description": "A website for a friend, hosts information about his IP creation Ferrox species, and links to his social medias.",
+  "main": "client",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LardianGH/rico-ferrox.git"
+  },
+  "author": "Lardian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LardianGH/rico-ferrox/issues"
+  },
+  "homepage": "https://github.com/LardianGH/rico-ferrox#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
