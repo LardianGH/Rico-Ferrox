@@ -1,0 +1,7 @@
+.container {
+  height: 100vh; 
+  width: 80%;
+  display: inline-block;
+  text-align: center;
+  padding-top: 10px;
+}

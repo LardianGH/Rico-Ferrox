@@ -1,0 +1,9 @@
+
+.bannerright {
+    width: 10%;
+    height: 100%;
+    background-color: orangered;
+    background-image: url("../../assets/orange-leaves.jpg");
+    background-size:100% 100%;
+    float:right;
+}
